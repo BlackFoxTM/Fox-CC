@@ -1,5 +1,5 @@
-# R-CC
-[-] Remax CC Tools
+# Fox CC
+[-] Black Fox CC Tools 
 # Features
 > [&] Fast & easy 
 
@@ -12,16 +12,16 @@
 > [&] Without limit & Free
 
 
-# Installation
+# Installation-Linux-Termux
 
 ```
-apt-get update && apt-get upgrade && apt-get install git python3 
+apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/RemaxBoxTeam/R-CC
+git clone https://github.com/BlackFoxTM/FoxCC
 ```
 ```
-cd R-CC
+cd FoxCC
 ```
 ```
 pip3 install -r requirements.txt
@@ -29,3 +29,12 @@ pip3 install -r requirements.txt
 ```
 python3 cc.py
 ```
+
+# Installation-Windows
+### Download NodeJs Installer from [This Link](https://nodejs.org/en/)
+
+### Then Download This project as zip 
+
+### After That Open Cmd and go the Directory that you downloaded 
+
+## run `python cc.py`
