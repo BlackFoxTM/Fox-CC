@@ -9,6 +9,8 @@
 
 > [&] Credit Card Valid Checker 
 
+> [&] Generate Multi Bin Numbers
+
 > [&] Without limit & Free
 
 
