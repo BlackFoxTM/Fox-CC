@@ -78,10 +78,10 @@ elif opr == "3":
     print (mag + "[&] You selected third option !! \n\n")
     number = input(yl + "[$] Please Enter your card number : ")
     if detect_os() == "windows":
-        popen = os.popen("node core\\val.js " + number).read()
+        popen = os.popen("node corex\\val.js " + number).read()
         print (bl + popen + cv)
     else:
-        popen = os.popen("node core/val.js " + number).read()
+        popen = os.popen("node corex/val.js " + number).read()
         print (bl + popen + cv)
 elif opr == "4":
     print (bl + "[&] You Selected Fourth Option !")
